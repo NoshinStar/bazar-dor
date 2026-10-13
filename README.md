@@ -49,7 +49,7 @@ npm run dev
 
 ## 📝 লাইভ লিংক
 
-🔗 [বাজার দর - লাইভ](https://your-deployment-link.vercel.app)
+🔗 [বাজার দর - লাইভ](https://bazar-dor-phi-ten.vercel.app)
 
 ---
 
